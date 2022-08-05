@@ -1,3 +1,7 @@
+# My resume as a webpage, powered with React
+
+![cvpagescreenshot](https://user-images.githubusercontent.com/49163212/183101255-47ce0f9f-3308-4f4c-829d-dfd401429a84.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
