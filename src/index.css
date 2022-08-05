@@ -1,13 +1,195 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 500px;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.349);
+}
+
+.mt-5 {
+  margin-top: 80px !important;
+}
+
+.mb-4 {
+  margin-bottom: 50px !important;
+}
+
+.mb-5 {
+  margin-bottom: 500px !important;
+}
+
+.mb-6 {
+  margin-bottom: 280px !important;
+}
+
+.bg-light {
+  background-color: rgba(58, 58, 70, 0.993) !important;
+}
+
+.footerBackground {
+  background-color: rgb(235, 231, 231);
+}
+
+.bg-1 {
+  background-color: #1abc9c;
+  color: #ffffff;
+}
+
+.bg-2 {
+  background-color: #f7f7f7;
+  color: black;
+}
+
+.bg-3 {
+  background-color: #ffffff;
+  color: black;
+}
+
+.bg-tumma {
+  background-color: #222121;
+  color: white;
+}
+
+.container-fluid {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.contactColor {
+  color: #555555;
+}
+
+.contactImgFontSize {
+  font-size: 20px;
+}
+
+.footerCopyrightTextColor {
+  color: rgb(14, 13, 13);
+}
+
+.textColorBlack {
+  color: black;
+}
+
+.textColorBlack:hover {
+  color: rgb(46, 46, 46);
+  text-decoration: underline;
+}
+
+.textColorFooter {
+  font-size: 15px;
+  color: rgb(0, 0, 0);
+}
+
+.textColorFooter:hover {
+  color: #272727;
+  text-decoration: underline;
+}
+
+.fontSizeFooter {
+  font-size: 14.5px;
+}
+
+.textColorPhone {
+  color: rgb(0, 0, 0);
+}
+
+.hrWidth {
+  width: 65%;
+}
+
+.footerBorder {
+  border-top: 0.5px solid rgb(228, 225, 225);
+}
+
+.navbarBorder {
+  border-bottom: 0.5px solid rgb(100, 82, 71);
+}
+
+.homePictureContainer {
+  margin-top: 0px;
+  height: 535px;
+}
+
+.bg-secondary {
+  background-color: rgb(12, 72, 145) !important;
+}
+
+.homeContainerColor {
+  background-image: url("https://pixabay.com/get/g81769a5e9624a6e3665a3a141f67a855be60e30f05e43cf4d22d5c0c19122efd891836cb8e580eae64f8d039b80d2ded.jpg");
+  background-size: cover;
+  background-color: #000000;
+}
+
+.pictureBackgroundBorderColor {
+  background-color: #1d1b19;
+  border-color: #1b1a1a;
+}
+
+.underline:hover {
+  text-decoration: underline;
+}
+
+.fontColorDarkBrown {
+  color: #251e15;
+}
+
+.profileText {
+  width: 60%;
+  margin: 1rem auto;
+  padding: 2rem;
+  text-align: justify;
+  transition: all 0.3s;
+}
+.profileText p {
+  line-height: 1.5;
+  letter-spacing: 0.3px;
+  word-spacing: 1px;
+}
+
+@media screen and (max-width: 600px) {
+  .profileText {
+    width: 100%;
+    padding: 1rem;
+  }
+}
+
+.navbarBoxShadow {
+  box-shadow: 0.2rem 0.2rem 0.2rem rgba(0, 0, 0, 0.15);
+}
+/*
+
+ box-shadow: 1rem 1rem .5rem rgba(0, 0, 0, 0.15);
+
+*/
+
+.SkillCardBackgroundColor {
+  background-color: #f2f5f7;
+}
+
+.SkillsMarginTop125px {
+  margin-top: 125px;
+}
+
+.SkillsMarginBottom45px {
+  margin-bottom: 45px;
+}
+
+.ContactMarginBottom {
+  margin-bottom: 140px;
 }
