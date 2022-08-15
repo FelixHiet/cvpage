@@ -1,6 +1,6 @@
 import React from "react";
 import cvKuva from "../images/cvKuva.JPG";
-import stars from "../images/stars.jpg";
+import mountain from "../images/mountain.jpg";
 
 // refreshing web page = scroll back to the top.
 window.onbeforeunload = function () {
@@ -11,18 +11,18 @@ function Home() {
   return (
     <div>
       <div
-        style={{ backgroundImage: `url(${stars})` }}
+        style={{ backgroundImage: `url(${mountain})` }}
         className="container-fluid homeContainerColor homePictureContainer"
       >
         <div className="container text-center">
           <div className="">
             <div className="">
               <img
-                className="img-thumbnail pictureBackgroundBorderColor"
+                className="AddBoxShadow"
                 src={cvKuva}
                 alt=""
-                width="304"
-                height="236"
+                width="300"
+                height="380"
               />
             </div>
           </div>
@@ -190,3 +190,19 @@ https://sharemygame.com/@colorz/macarthur-game-design-project-hamk
       </div>
 
 */
+
+/*
+<div className="container text-center">
+          <div className="">
+            <div className="">
+              <img
+                className="img-thumbnail pictureBackgroundBorderColor"
+                src={cvKuva}
+                alt=""
+                width="304"
+                height="236"
+              />
+            </div>
+          </div>
+        </div>
+        */
