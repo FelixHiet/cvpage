@@ -2,7 +2,12 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import * as serviceWorker from "./serviceWorker";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  HashRouter,
+} from "react-router-dom";
 import {
   Navigation,
   Footer,
@@ -15,7 +20,7 @@ import {
 } from "./components";
 
 ReactDOM.render(
-  <Router>
+  <HashRouter>
     <Navigation />
     <Routes>
       <Route path="/" element={<Home />} />
@@ -27,9 +32,11 @@ ReactDOM.render(
       </Route>
     </Routes>
     <Footer />
-  </Router>,
+  </HashRouter>,
 
   document.getElementById("root")
 );
 
 serviceWorker.unregister();
+
+//import { BrowserRouter as Router, Route, Routes, HashRouter } from "react-router-dom";
