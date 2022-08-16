@@ -34,12 +34,10 @@ function Home() {
         <p>
           Olen Felix Hietaranta, 26-vuotias ja opiskelen viimeistä vuotta Hämeen
           ammattikorkeakoulussa ( tieto- ja viestintätekniikan insinöörikoulutus
-          ). Minulta puuttuu työharjoittelu ja opinnäytetyön tekeminen.
-          Tarvitsen työtä, jotta saisin hoidettua työharjoittelun pois alta.
-          Jatkaisin myös mielelläni töissä harjoittelun jälkeen, koska opintoja
-          ei ole kauheasti jäljellä ja työkokemus on tärkeää, olisi myös mukavaa
-          päästä työelämään omalle alalle. Eikä haittaisi, jos olisi
-          mahdollisuus kasvaa ja päästä eteenpäin.
+          ). Minulta puuttuu työharjoittelu ja opinnäytetyön tekeminen. Etsin
+          insinöörikoulutukseeni kuuluvaa harjoittelupaikkaa esim.
+          juniorikoodarina ja toiveenani on, että voisin jatkaa töissä myös
+          harjoittelujakson jälkeen.
         </p>
         <p>
           Olen kiinnostunut eniten junior front-end ja web-ohjelmointi hommista
@@ -48,8 +46,9 @@ function Home() {
           kokemusta, kuin koulutunneilta, jolloin käytimme Djangoa. Djangolla
           teimme pienen projektityön, joka oli yksinkertainen tekstipeli (
           pelissä pääsi tekemään valintoja eri tekstejä klikkaamalla ). Olen
-          myös valmis oppimaan uutta ja olen kuullut, että töissä oppii varmasti
-          paremmin kuin koulussa.
+          halukas oppimaan uutta ja olen varma, että alan ammattilaisten kanssa
+          työskennellessä pystyn syventämään ja laajentamaan koulussa oppimiani
+          tietoja ja taitoja.
         </p>
         <p>
           Haluaisin oppia lisää front-endin ja web-ohjelmoinnin puolelta, esim:
