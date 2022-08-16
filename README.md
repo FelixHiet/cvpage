@@ -1,4 +1,4 @@
-# My resume as a webpage, powered with React
+# My resume, link below 
 https://FelixHiet.github.io/cvpage
 
 # Getting Started with Create React App
