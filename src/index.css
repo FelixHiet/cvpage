@@ -158,8 +158,6 @@ a:hover {
 }
 .profileText p {
   line-height: 1.5;
-  letter-spacing: 0.3px;
-  word-spacing: 1px;
 }
 
 @media screen and (max-width: 600px) {
