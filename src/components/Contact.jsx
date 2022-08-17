@@ -27,12 +27,12 @@ function Contact() {
                   className="rounded"
                   src={linkedinpic}
                   alt=""
-                  width="230"
-                  height="230"
+                  width="200"
+                  height="200"
                 />
               </a>
 
-              <p className="mt-2 contactColor contactImgFontSize">
+              <p className="mt-2 contactColor contactImgFontSize ContactPicturePadding">
                 Link to my linkedin page
               </p>
             </div>
@@ -43,19 +43,19 @@ function Contact() {
                   className="rounded"
                   src={githubpic}
                   alt=""
-                  width="230"
-                  height="230"
+                  width="200"
+                  height="200"
                 />
               </a>
 
-              <p className="mt-2 contactColor contactImgFontSize">
+              <p className="mt-2 contactColor contactImgFontSize ContactPicturePadding">
                 Link to my Github page
               </p>
             </div>
 
             <div className="col-lg-4">
               <a href="mailto:felixfab.hietaranta@gmail.com">
-                <img src={gmailpic} alt="" width="230" height="230" />
+                <img src={gmailpic} alt="" width="200" height="200" />
               </a>
 
               <p className="mt-2 contactColor contactImgFontSize">
