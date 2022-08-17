@@ -15,7 +15,7 @@ function Skills() {
         </h3>
       </div>
 
-      <div className="container">
+      <div className="container skillSectionPadding">
         <div className="row">
           <div className="col-lg-12 mb-4">
             <div className="card h-100 border-0 SkillCardBackgroundColor">
@@ -33,7 +33,7 @@ function Skills() {
         </div>
       </div>
 
-      <div className="container">
+      <div className="container skillSectionPadding">
         <div className="row">
           <div className="col-lg-6 mb-4">
             <div className="card h-100 border-0 SkillCardBackgroundColor">

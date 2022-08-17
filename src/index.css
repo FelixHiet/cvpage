@@ -155,16 +155,21 @@ a:hover {
   padding: 2rem;
   text-align: justify;
   transition: all 0.3s;
+  letter-spacing: normal;
 }
 .profileText p {
   line-height: 1.5;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .profileText {
-    width: 100%;
+    width: 90%;
     padding: 1rem;
   }
+}
+
+.skillSectionPadding {
+  padding: 0px 30px 0px 30px;
 }
 
 .navbarBoxShadow {

@@ -32,7 +32,7 @@ function Contact() {
                 />
               </a>
 
-              <p className="mt-2 contactColor contactImgFontSize ContactPicturePadding">
+              <p className="mt-2 contactColor contactImgFontSize ContactPicturePadding ">
                 Link to my linkedin page
               </p>
             </div>
