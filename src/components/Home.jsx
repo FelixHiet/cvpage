@@ -29,10 +29,10 @@ function Home() {
         </div>
       </div>
 
-      <div className="container skillSectionPadding">
+      <div className="container profileSectionPadding">
         <div className="row">
           <div className="col-lg-12 mb-4 mt-4">
-            <div className="card h-100 border-0">
+            <div className="card h-100 border-0 mt-2">
               <div className="card-body">
                 <h3 className=" mb-4 fontColorDarkBrown text-center">
                   Profile

@@ -172,6 +172,10 @@ a:hover {
   padding: 0px 30px 0px 30px;
 }
 
+.profileSectionPadding {
+  padding: 0px 1px 0px 1px;
+}
+
 .navbarBoxShadow {
   box-shadow: 0.2rem 0.2rem 0.2rem rgba(0, 0, 0, 0.15);
 }
