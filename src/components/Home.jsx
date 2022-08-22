@@ -81,9 +81,15 @@ function Home() {
                   joka oli tutoriaali, toinen taso joka oli kanjoni ja sitten
                   viimeinen taso, jossa oli eniten tekemistä. Projektissa oma
                   työpanokseni oli start game valikon tekeminen ja kolmannen
-                  tason tekeminen. Linkki videopeliin tässä, peli saattaa ladata
-                  minuutin tai kaksi.
-                </p>{" "}
+                  tason tekeminen.{" "}
+                  <a
+                    className="textColorBlack"
+                    href="https://sharemygame.com/@colorz/macarthur-game-design-project-hamk"
+                  >
+                    Linkki videopeliin tässä, peli saattaa ladata minuutin tai
+                    kaksi.
+                  </a>
+                </p>
               </div>
             </div>
           </div>
