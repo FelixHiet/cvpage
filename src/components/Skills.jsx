@@ -43,7 +43,7 @@ function Skills() {
                   <li className="list-group-item SkillCardBackgroundColor">
                     Tuoreimmassa muistissa ovat Javascript, HTML, CSS ja React,
                     jota opiskelen parhaillaan. Olen siis koodaillut eniten
-                    Javascriptillä projekteja.
+                    projekteja Javascriptillä.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Koulussa muita ohjelmointikieliä, joita olemme käyttäneet
