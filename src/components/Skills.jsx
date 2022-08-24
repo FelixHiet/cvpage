@@ -42,7 +42,8 @@ function Skills() {
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
                     Tuoreimmassa muistissa ovat Javascript, HTML, CSS ja React,
-                    jota opiskelen parhaillaan.
+                    jota opiskelen parhaillaan. Olen siis koodaillut eniten
+                    Javascriptillä projekteja.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Koulussa muita ohjelmointikieliä, joita olemme käyttäneet
