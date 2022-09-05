@@ -69,7 +69,9 @@ function Home() {
                   täynnä ), yksinkertaisen blackjack-pelin Javascriptillä ja
                   Reactilla koodatun meme generatorin, joka nimensä mukaisesti
                   luo meemejä ( pystyt kirjoittamaan itse tekstit ja valitsemaan
-                  monesta eri kuvasta meemin ). Projektit löytyvät Githubistani.
+                  monesta eri kuvasta meemin ). Tämän hetken isoin ja vaikein
+                  projekti, jota teen on nettikauppa, jossa käytetään Reactia,
+                  commercejs:ää ja stripea. Projektit löytyvät Githubistani.
                 </p>
                 <p>
                   Kiinnostavin kouluprojekti, jonka teimme oli pelikurssilla

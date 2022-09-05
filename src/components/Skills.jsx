@@ -38,7 +38,7 @@ function Skills() {
           <div className="col-lg-6 mb-4">
             <div className="card h-100 border-0 SkillCardBackgroundColor">
               <div className="card-body">
-                <h4 className="card-title">Ohjelmointikielet ja muut</h4>
+                <h4 className="card-title">Ohjelmointikielet, API:t ja muut</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
                     Tuoreimmassa muistissa ovat Javascript, HTML, CSS ja React,
@@ -50,13 +50,19 @@ function Skills() {
                     ovat: C#, Python ja C++.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Linuxin ja MySQL:n perusteet
+                    API:t joita olen käyttänyt ovat esim: commercejs ja stripe.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Microsoft word ja powerpoint
+                    CSS lisäksi Bootstrap ja hieman material ui:ta.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Photoshopin perusteet
+                    Linuxin ja MySQL:n perusteet.
+                  </li>
+                  <li className="list-group-item SkillCardBackgroundColor">
+                    Microsoft word ja powerpoint.
+                  </li>
+                  <li className="list-group-item SkillCardBackgroundColor">
+                    Photoshopin perusteet.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -70,17 +76,17 @@ function Skills() {
                 <h4 className="card-title">Kielitaito</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Suomi: äidinkieli
+                    Suomi: äidinkieli.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Englanti: sujuva
+                    Englanti: sujuva.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Ruotsi: hyvä ( olen käynyt ruotsinkielisen armeijan )
+                    Ruotsi: hyvä ( olen käynyt ruotsinkielisen armeijan ).
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Latina: perusteet ( taito on erittäin ruostunut, mutta kävin
-                    latinan luokan yläkoulussa )
+                    latinan luokan yläkoulussa ).
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -95,13 +101,14 @@ function Skills() {
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
                     K-supermarket Perniö, myyjä ja välillä hyllytys
-                    21.08.2015-30.11.2015 ja 26.05.2017-04.03.2018
+                    21.08.2015-30.11.2015 ja 26.05.2017-04.03.2018.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Hästön maatila, puutarhatyö 09.06.2014-27.06.2014
+                    Hästön maatila, puutarhatyö 09.06.2014-27.06.2014.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Bulevardin klinikka, toimistoapulainen 18.06.2012-29.06.2012
+                    Bulevardin klinikka, toimistoapulainen
+                    18.06.2012-29.06.2012.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -116,10 +123,10 @@ function Skills() {
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
                     Hämeen ammattikorkeakoulu, tieto-ja viestintätekniikan
-                    insinööri 2018-2023
+                    insinööri 2018-2023.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Perniön lukio, ylioppilas 2012-2015
+                    Perniön lukio, ylioppilas 2012-2015.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -156,13 +163,13 @@ function Skills() {
                 <h4 className="card-title">Harrastukset</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Laskettelu
+                    Laskettelu.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Sijoittaminen, esim: rahastot ja kryptovaluutat
+                    Sijoittaminen, esim: rahastot ja kryptovaluutat.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Videopelit
+                    Videopelit.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
