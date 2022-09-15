@@ -50,7 +50,8 @@ function Skills() {
                     ovat: C#, Python ja C++.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    API:t joita olen käyttänyt ovat esim: commercejs ja stripe.
+                    API:t joita olen käyttänyt ovat esim: commercejs, stripe,
+                    rapid api ja ombd api.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     CSS lisäksi Bootstrap ja hieman material ui:ta.
