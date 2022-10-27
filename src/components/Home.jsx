@@ -17,13 +17,7 @@ function Home() {
         <div className="container text-center">
           <div className="">
             <div className="">
-              <img
-                className="AddBoxShadow"
-                src={cvKuva}
-                alt=""
-                width="300"
-                height="380"
-              />
+              <img className="AddBoxShadow" src={cvKuva} alt="" width="300" height="380" />
             </div>
           </div>
         </div>
@@ -34,62 +28,49 @@ function Home() {
           <div className="col-lg-12 mb-4 mt-4">
             <div className="card h-100 border-0 mt-2">
               <div className="card-body">
-                <h3 className=" mb-4 fontColorDarkBrown text-center">
-                  Profile
-                </h3>
+                <h3 className=" mb-4 fontColorDarkBrown text-center">Profile</h3>
                 <p>
-                  Olen Felix Hietaranta, 26-vuotias ja opiskelen viimeistä
-                  vuotta Hämeen ammattikorkeakoulussa ( tieto- ja
-                  viestintätekniikan insinöörikoulutus ). Minulta puuttuu
-                  työharjoittelu ja opinnäytetyön tekeminen. Etsin
-                  insinöörikoulutukseeni kuuluvaa harjoittelupaikkaa esim.
-                  juniorikoodarina ja toiveenani on, että voisin jatkaa töissä
-                  myös harjoittelujakson jälkeen.
+                  Olen Felix Hietaranta, 26-vuotias ja opiskelen viimeistä vuotta Hämeen
+                  ammattikorkeakoulussa ( tieto- ja viestintätekniikan insinöörikoulutus ). Minulta
+                  puuttuu työharjoittelu ja opinnäytetyön tekeminen. Etsin insinöörikoulutukseeni
+                  kuuluvaa harjoittelupaikkaa esim. juniorikoodarina ja toiveenani on, että voisin
+                  jatkaa töissä myös harjoittelujakson jälkeen.
                 </p>
                 <p>
-                  Olen kiinnostunut eniten junior front-end ja web-ohjelmointi
-                  hommista ja olen tehnyt eniten projekteja front-endin
-                  puolelta. Junior full stack voisi myös kiinnostaa, mutta
-                  back-endistä ei ole niin paljoa kokemusta, kuin
-                  koulutunneilta, jolloin käytimme Djangoa. Djangolla teimme
-                  pienen projektityön, joka oli yksinkertainen tekstipeli (
-                  pelissä pääsi tekemään valintoja eri tekstejä klikkaamalla ).
-                  Olen halukas oppimaan uutta ja olen varma, että alan
-                  ammattilaisten kanssa työskennellessä pystyn syventämään ja
-                  laajentamaan koulussa oppimiani tietoja ja taitoja.
+                  Olen kiinnostunut eniten junior front-end ja web-ohjelmointi hommista ja olen
+                  tehnyt eniten projekteja front-endin puolelta. Full stack voisi myös kiinnostaa,
+                  mutta back-endistä ei ole niin paljoa kokemusta, kuin koulutunneilta, jolloin
+                  käytimme Djangoa. Djangolla teimme pienen projektityön, joka oli yksinkertainen
+                  tekstipeli ( pelissä pääsi tekemään valintoja eri tekstejä klikkaamalla ). Sen
+                  lisäksi olen kiinnostunut myös muistakin IT-tehtävistä. Olen halukas oppimaan
+                  uutta ja olen varma, että alan ammattilaisten kanssa työskennellessä pystyn
+                  syventämään ja laajentamaan koulussa oppimiani tietoja ja taitoja.
                 </p>
                 <p>
-                  Haluaisin oppia lisää front-endin ja web-ohjelmoinnin
-                  puolelta, esim: Reactia ja muita teknologiota. Olen rakentanut
-                  tätä sivua tutorialin avulla käyttäen Reactia ja Bootstrappia.
-                  Olen lisäksi koodaillut muitakin hommia Reactilla ja
-                  Javascriptillä. Esimerkiksi Javascriptillä tehdyn chrome
-                  extensionin ( joka on periaatteessa kirjanmerkkisovellus, aika
-                  hyödyllinen jopa, koska kirjamerkkipalkkini on yleensä ihan
-                  täynnä ), yksinkertaisen blackjack-pelin Javascriptillä ja
-                  Reactilla koodatun meme generatorin, joka nimensä mukaisesti
-                  luo meemejä ( pystyt kirjoittamaan itse tekstit ja valitsemaan
-                  monesta eri kuvasta meemin ). Tämän hetken isoin ja vaikein
-                  projekti, jota teen on nettikauppa, jossa käytetään Reactia,
-                  commercejs:ää ja stripea. Projektit löytyvät Githubistani.
+                  Haluaisin oppia lisää front-endin ja web-ohjelmoinnin puolelta, esim: Reactia ja
+                  muita teknologiota. Olen rakentanut tätä sivua tutorialin avulla käyttäen Reactia
+                  ja Bootstrappia. Olen lisäksi koodaillut muitakin hommia Reactilla ja
+                  Javascriptillä. Esimerkiksi Javascriptillä tehdyn chrome extensionin ( joka on
+                  periaatteessa kirjanmerkkisovellus, aika hyödyllinen jopa, koska
+                  kirjamerkkipalkkini on yleensä ihan täynnä ), yksinkertaisen blackjack-pelin
+                  Javascriptillä ja Reactilla koodatun meme generatorin, joka nimensä mukaisesti luo
+                  meemejä ( pystyt kirjoittamaan itse tekstit ja valitsemaan monesta eri kuvasta
+                  meemin ). Tämän hetken isoin ja vaikein projekti, jota teen on nettikauppa, jossa
+                  käytetään Reactia, commercejs:ää ja stripea. Projektit löytyvät Githubistani.
                 </p>
                 <p>
-                  Kiinnostavin kouluprojekti, jonka teimme oli pelikurssilla
-                  tehty videopeli, jonka teimme ryhmässä kolmen luokkakaverin
-                  kanssa. Peli oli toteutettu Unity-pelimoottorilla. Videopeli
-                  oli yksinkertainen toimintaroolipeli, jossa taisteltiin
-                  zombeja vastaan miekalla. Peliä kuvattiin ylhäältä päin
-                  kolmannesta persoonasta ja pelissä oli kolme tasoa: alkutaso,
-                  joka oli tutoriaali, toinen taso joka oli kanjoni ja sitten
-                  viimeinen taso, jossa oli eniten tekemistä. Projektissa oma
-                  työpanokseni oli start game valikon tekeminen ja kolmannen
-                  tason tekeminen.{" "}
+                  Kiinnostavin kouluprojekti, jonka teimme oli pelikurssilla tehty videopeli, jonka
+                  teimme ryhmässä kolmen luokkakaverin kanssa. Peli oli toteutettu
+                  Unity-pelimoottorilla. Videopeli oli yksinkertainen toimintaroolipeli, jossa
+                  taisteltiin zombeja vastaan miekalla. Peliä kuvattiin ylhäältä päin kolmannesta
+                  persoonasta ja pelissä oli kolme tasoa: alkutaso, joka oli tutoriaali, toinen taso
+                  joka oli kanjoni ja sitten viimeinen taso, jossa oli eniten tekemistä. Projektissa
+                  oma työpanokseni oli start game valikon tekeminen ja kolmannen tason tekeminen.{" "}
                   <a
                     className="textColorBlack"
                     href="https://sharemygame.com/@colorz/macarthur-game-design-project-hamk"
                   >
-                    Linkki videopeliin tässä, peli saattaa ladata minuutin tai
-                    kaksi.
+                    Linkki videopeliin tässä, peli saattaa ladata minuutin tai kaksi.
                   </a>
                 </p>
               </div>

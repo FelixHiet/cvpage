@@ -10,9 +10,7 @@ function Skills() {
     <div>
       {/* START */}
       <div>
-        <h3 className="text-center mb-4 SkillsMarginTop125px fontColorDarkBrown">
-          Skills
-        </h3>
+        <h3 className="text-center mb-4 SkillsMarginTop125px fontColorDarkBrown">Skills</h3>
       </div>
 
       <div className="container skillSectionPadding">
@@ -22,10 +20,9 @@ function Skills() {
               <div className="card-body">
                 <h4 className="card-title">Visual Studio Code</h4>
                 <p>
-                  Ohjelmointityökaluista olen tehnyt eniten hommia Visual Studio
-                  Codella ja se on minulle tutuin työkalu. Tämä nettisivukin on
-                  tehty VS codella. VS coden lisäksi, olen käyttänyt visual
-                  studio 2019, mutta enimmäkseen vaan kouluhommissa.
+                  Ohjelmointityökaluista olen tehnyt eniten hommia Visual Studio Codella ja se on
+                  minulle tutuin työkalu. Tämä nettisivukin on tehty VS codella. VS coden lisäksi,
+                  olen käyttänyt visual studio 2019, mutta enimmäkseen vaan kouluhommissa.
                 </p>
               </div>
             </div>
@@ -41,17 +38,15 @@ function Skills() {
                 <h4 className="card-title">Ohjelmointikielet, API:t ja muut</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Tuoreimmassa muistissa ovat Javascript, HTML, CSS ja React,
-                    jota opiskelen parhaillaan. Olen siis koodaillut eniten
-                    projekteja Javascriptillä.
+                    Tuoreimmassa muistissa ovat Javascript, HTML, CSS ja React, jota opiskelen
+                    parhaillaan. Olen siis koodaillut eniten projekteja Javascriptillä.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Koulussa muita ohjelmointikieliä, joita olemme käyttäneet
-                    ovat: C#, Python ja C++.
+                    Koulussa muita ohjelmointikieliä, joita olemme käyttäneet ovat: C#, Python ja
+                    C++.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    API:t joita olen käyttänyt ovat esim: commercejs, stripe,
-                    rapid api ja ombd api.
+                    API:t joita olen käyttänyt ovat esim: commercejs, stripe, rapid api ja ombd api.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     CSS lisäksi Bootstrap ja hieman material ui:ta.
@@ -60,7 +55,7 @@ function Skills() {
                     Linuxin ja MySQL:n perusteet.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Microsoft word ja powerpoint.
+                    Microsoft word ja Powerpoint.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Photoshopin perusteet.
@@ -76,18 +71,14 @@ function Skills() {
               <div className="card-body">
                 <h4 className="card-title">Kielitaito</h4>
                 <ul className="list-group list-group-flush">
-                  <li className="list-group-item SkillCardBackgroundColor">
-                    Suomi: äidinkieli.
-                  </li>
-                  <li className="list-group-item SkillCardBackgroundColor">
-                    Englanti: sujuva.
-                  </li>
+                  <li className="list-group-item SkillCardBackgroundColor">Suomi: äidinkieli.</li>
+                  <li className="list-group-item SkillCardBackgroundColor">Englanti: sujuva.</li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Ruotsi: hyvä ( olen käynyt ruotsinkielisen armeijan ).
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Latina: perusteet ( taito on erittäin ruostunut, mutta kävin
-                    latinan luokan yläkoulussa ).
+                    Latina: perusteet ( taito on erittäin ruostunut, mutta kävin latinan luokan
+                    yläkoulussa ).
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -101,15 +92,14 @@ function Skills() {
                 <h4 className="card-title">Työkokemus</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
-                    K-supermarket Perniö, myyjä ja välillä hyllytys
-                    21.08.2015-30.11.2015 ja 26.05.2017-04.03.2018.
+                    K-supermarket Perniö, myyjä ja välillä hyllytys 21.08.2015-30.11.2015 ja
+                    26.05.2017-04.03.2018.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Hästön maatila, puutarhatyö 09.06.2014-27.06.2014.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Bulevardin klinikka, toimistoapulainen
-                    18.06.2012-29.06.2012.
+                    Bulevardin klinikka, toimistoapulainen 18.06.2012-29.06.2012.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -123,8 +113,7 @@ function Skills() {
                 <h4 className="card-title">Koulutus</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Hämeen ammattikorkeakoulu, tieto-ja viestintätekniikan
-                    insinööri 2018-2023.
+                    Hämeen ammattikorkeakoulu, tieto-ja viestintätekniikan insinööri 2018-2023.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Perniön lukio, ylioppilas 2012-2015.
@@ -141,16 +130,14 @@ function Skills() {
                 <h4 className="card-title">Varusmiespalvelus</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Kävin varusmiespalveluksen Uudenmaan prikaatissa
-                    Dragsvikissä Tammisaaressa.
+                    Kävin varusmiespalveluksen Uudenmaan prikaatissa Dragsvikissä Tammisaaressa.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Olin armeijassa vuoden eli 347 päivää ja minut koulutettiin
                     viesti-alikersantiksi.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Varusmiespalvelus oli enimmäkseen ruotsiksi, joten opin
-                    samalla myös kieltä.
+                    Varusmiespalvelus oli enimmäkseen ruotsiksi, joten opin samalla myös kieltä.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -163,15 +150,11 @@ function Skills() {
               <div className="card-body">
                 <h4 className="card-title">Harrastukset</h4>
                 <ul className="list-group list-group-flush">
-                  <li className="list-group-item SkillCardBackgroundColor">
-                    Laskettelu.
-                  </li>
+                  <li className="list-group-item SkillCardBackgroundColor">Laskettelu.</li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Sijoittaminen, esim: rahastot ja kryptovaluutat.
                   </li>
-                  <li className="list-group-item SkillCardBackgroundColor">
-                    Videopelit.
-                  </li>
+                  <li className="list-group-item SkillCardBackgroundColor">Videopelit.</li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
               </div>
