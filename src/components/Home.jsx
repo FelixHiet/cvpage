@@ -33,8 +33,9 @@ function Home() {
                   Olen Felix Hietaranta, 26-vuotias ja opiskelen viimeistä vuotta Hämeen
                   ammattikorkeakoulussa ( tieto- ja viestintätekniikan insinöörikoulutus ). Minulta
                   puuttuu työharjoittelu ja opinnäytetyön tekeminen. Etsin insinöörikoulutukseeni
-                  kuuluvaa harjoittelupaikkaa esim. juniorikoodarina ja toiveenani on, että voisin
-                  jatkaa töissä myös harjoittelujakson jälkeen.
+                  kuuluvaa harjoittelupaikkaa esim. koodarina tai muuna vastaavana it-alan
+                  ammattilaisena ja toiveenani on, että voisin jatkaa töissä myös harjoittelujakson
+                  jälkeen.
                 </p>
                 <p>
                   Olen kiinnostunut eniten junior front-end ja web-ohjelmointi hommista ja olen
