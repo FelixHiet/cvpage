@@ -33,9 +33,10 @@ function Home() {
                   Olen Felix Hietaranta, 26-vuotias ja opiskelen viimeistä vuotta Hämeen
                   ammattikorkeakoulussa ( tieto- ja viestintätekniikan insinöörikoulutus ). Minulta
                   puuttuu työharjoittelu ja opinnäytetyön tekeminen. Etsin insinöörikoulutukseeni
-                  kuuluvaa harjoittelupaikkaa esim. koodarina tai muuna vastaavana it-alan
+                  kuuluvaa harjoittelupaikkaa esim. koodarina tai muuna vastaavana IT-alan
                   ammattilaisena ja toiveenani on, että voisin jatkaa töissä myös harjoittelujakson
-                  jälkeen.
+                  jälkeen. Olen tehnyt koulussa monta erilaista projektia ja tiimissä työskentely on
+                  minusta mukavaa, mutta pystyn myös työskentelemään itsenäisesti.
                 </p>
                 <p>
                   Olen kiinnostunut eniten junior front-end ja web-ohjelmointi hommista ja olen
@@ -49,15 +50,12 @@ function Home() {
                 </p>
                 <p>
                   Haluaisin oppia lisää front-endin ja web-ohjelmoinnin puolelta, esim: Reactia ja
-                  muita teknologiota. Olen rakentanut tätä sivua tutorialin avulla käyttäen Reactia
-                  ja Bootstrappia. Olen lisäksi koodaillut muitakin hommia Reactilla ja
-                  Javascriptillä. Esimerkiksi Javascriptillä tehdyn chrome extensionin ( joka on
-                  periaatteessa kirjanmerkkisovellus, aika hyödyllinen jopa, koska
-                  kirjamerkkipalkkini on yleensä ihan täynnä ), yksinkertaisen blackjack-pelin
-                  Javascriptillä ja Reactilla koodatun meme generatorin, joka nimensä mukaisesti luo
-                  meemejä ( pystyt kirjoittamaan itse tekstit ja valitsemaan monesta eri kuvasta
-                  meemin ). Tämän hetken isoin ja vaikein projekti, jota teen on nettikauppa, jossa
-                  käytetään Reactia, commercejs:ää ja stripea. Projektit löytyvät Githubistani.
+                  muita teknologiota. Sen lisäksi projektihommat ja muu IT yms taitojen oppiminen
+                  olisi mukavaa. Olen rakentanut tätä sivua tutorialin avulla käyttäen Reactia ja
+                  Bootstrappia. Olen lisäksi koodaillut muitakin hommia Reactilla ja Javascriptillä.
+                  Näihin projekteihin kuuluu pari nettikauppaa, matkailusovellus, Youtube-clone appi
+                  ja gym-sovellus sekä paljon muuta. Projektit löytyvät Githubistani. Seuraavat
+                  projektit, joita olen tekemässä on Google klooni sovellus ja oman apin tekeminen.
                 </p>
                 <p>
                   Kiinnostavin kouluprojekti, jonka teimme oli pelikurssilla tehty videopeli, jonka
