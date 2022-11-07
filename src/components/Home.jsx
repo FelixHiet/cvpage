@@ -35,10 +35,11 @@ function Home() {
                   puuttuu työharjoittelu ja opinnäytetyön tekeminen. Etsin insinöörikoulutukseeni
                   kuuluvaa harjoittelupaikkaa esim. koodarina tai muuna vastaavana IT-alan
                   ammattilaisena ja toiveenani on, että voisin jatkaa töissä myös harjoittelujakson
-                  jälkeen. Olen tehnyt koulussa monta erilaista projektia ja tiimissä työskentely on
-                  minusta mukavaa, mutta pystyn myös työskentelemään itsenäisesti.
+                  jälkeen.
                 </p>
                 <p>
+                  Olen tehnyt koulussa monta erilaista projektia ja pari kesäprojektia. Tiimissä
+                  työskentely on minusta mukavaa, mutta pystyn myös työskentelemään itsenäisesti.
                   Olen kiinnostunut eniten junior front-end ja web-ohjelmointi hommista ja olen
                   tehnyt eniten projekteja front-endin puolelta. Full stack voisi myös kiinnostaa,
                   mutta back-endistä ei ole niin paljoa kokemusta, kuin koulutunneilta, jolloin
