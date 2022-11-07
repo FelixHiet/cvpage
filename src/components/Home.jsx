@@ -38,16 +38,17 @@ function Home() {
                   jälkeen.
                 </p>
                 <p>
-                  Olen tehnyt koulussa monta erilaista projektia ja pari kesäprojektia. Tiimissä
-                  työskentely on minusta mukavaa, mutta pystyn myös työskentelemään itsenäisesti.
-                  Olen kiinnostunut eniten junior front-end ja web-ohjelmointi hommista ja olen
-                  tehnyt eniten projekteja front-endin puolelta. Full stack voisi myös kiinnostaa,
-                  mutta back-endistä ei ole niin paljoa kokemusta, kuin koulutunneilta, jolloin
-                  käytimme Djangoa. Djangolla teimme pienen projektityön, joka oli yksinkertainen
-                  tekstipeli ( pelissä pääsi tekemään valintoja eri tekstejä klikkaamalla ). Sen
-                  lisäksi olen kiinnostunut myös muistakin IT-tehtävistä. Olen halukas oppimaan
-                  uutta ja olen varma, että alan ammattilaisten kanssa työskennellessä pystyn
-                  syventämään ja laajentamaan koulussa oppimiani tietoja ja taitoja.
+                  Olen tehnyt koulussa monta erilaista projektia ja pari kesäprojektia.
+                  Projektiryhmässä työskentely on minusta mukavaa, mutta pystyn myös työskentelemään
+                  itsenäisesti tarpeen vaatien. Olen kiinnostunut eniten junior front-end ja
+                  web-ohjelmointi hommista ja olen tehnyt eniten projekteja front-endin puolelta.
+                  Full stack voisi myös kiinnostaa, mutta back-endistä ei ole niin paljoa kokemusta,
+                  kuin koulutunneilta, jolloin käytimme Djangoa. Djangolla teimme pienen
+                  projektityön, joka oli yksinkertainen tekstipeli ( pelissä pääsi tekemään
+                  valintoja eri tekstejä klikkaamalla ). Sen lisäksi olen kiinnostunut myös
+                  muistakin IT-tehtävistä. Olen halukas oppimaan uutta ja olen varma, että alan
+                  ammattilaisten kanssa työskennellessä pystyn syventämään ja laajentamaan koulussa
+                  oppimiani tietoja ja taitoja.
                 </p>
                 <p>
                   Haluaisin oppia lisää front-endin ja web-ohjelmoinnin puolelta, esim: Reactia ja
