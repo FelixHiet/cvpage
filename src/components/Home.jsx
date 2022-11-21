@@ -31,24 +31,23 @@ function Home() {
                 <h3 className=" mb-4 fontColorDarkBrown text-center">Profile</h3>
                 <p>
                   Olen Felix Hietaranta, 26-vuotias ja opiskelen viimeistä vuotta Hämeen
-                  ammattikorkeakoulussa ( tieto- ja viestintätekniikan insinöörikoulutus ). Minulta
-                  puuttuu työharjoittelu ja opinnäytetyön tekeminen. Etsin insinöörikoulutukseeni
-                  kuuluvaa harjoittelupaikkaa esim. koodarina tai muuna vastaavana IT-alan
-                  ammattilaisena ja toiveenani on, että voisin jatkaa töissä myös harjoittelujakson
-                  jälkeen.
+                  ammattikorkeakoulussa (tieto- ja viestintätekniikan insinöörikoulutus).
+                  Opintokokonaisuudestani puuttuu enää työharjoittelu ja opinnäytetyö. Etsin
+                  insinöörikoulutukseeni kuuluvaa harjoittelupaikkaa ja toiveenani on, että voisin
+                  jatkaa töissä myös harjoittelujakson jälkeen.
                 </p>
                 <p>
                   Olen tehnyt koulussa monta erilaista projektia ja pari kesäprojektia.
                   Projektiryhmässä työskentely on minusta mukavaa, mutta pystyn myös työskentelemään
                   itsenäisesti tarpeen vaatien. Olen kiinnostunut eniten junior front-end ja
-                  web-ohjelmointi hommista ja olen tehnyt eniten projekteja front-endin puolelta.
-                  Full stack voisi myös kiinnostaa, mutta back-endistä ei ole niin paljoa kokemusta,
-                  kuin koulutunneilta, jolloin käytimme Djangoa. Djangolla teimme pienen
-                  projektityön, joka oli yksinkertainen tekstipeli ( pelissä pääsi tekemään
-                  valintoja eri tekstejä klikkaamalla ). Sen lisäksi olen kiinnostunut myös
-                  muistakin IT-tehtävistä. Olen halukas oppimaan uutta ja olen varma, että alan
-                  ammattilaisten kanssa työskennellessä pystyn syventämään ja laajentamaan koulussa
-                  oppimiani tietoja ja taitoja.
+                  web-ohjelmointi töistä ja olen tehnyt eniten projekteja front-endin puolelta. Full
+                  stack kiinnostaisi, mutta back-endistä ei ole niin paljoa kokemusta, kuin
+                  koulutunneilta, jolloin käytimme Djangoa. Djangolla teimme pienen projektityön,
+                  joka oli yksinkertainen tekstipeli (pelissä pääsi tekemään valintoja eri tekstejä
+                  klikkaamalla). Sen lisäksi olen kiinnostunut myös muistakin IT-tehtävistä. Olen
+                  halukas oppimaan uutta ja olen varma, että alan ammattilaisten kanssa
+                  työskennellessä pystyn syventämään ja laajentamaan koulussa oppimiani tietoja ja
+                  taitoja.
                 </p>
                 <p>
                   Haluaisin oppia lisää front-endin ja web-ohjelmoinnin puolelta, esim: Reactia ja

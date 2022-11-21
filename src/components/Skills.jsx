@@ -71,15 +71,10 @@ function Skills() {
               <div className="card-body">
                 <h4 className="card-title">Kielitaito</h4>
                 <ul className="list-group list-group-flush">
-                  <li className="list-group-item SkillCardBackgroundColor">Suomi: äidinkieli.</li>
-                  <li className="list-group-item SkillCardBackgroundColor">Englanti: sujuva.</li>
-                  <li className="list-group-item SkillCardBackgroundColor">
-                    Ruotsi: hyvä ( olen käynyt ruotsinkielisen armeijan ).
-                  </li>
-                  <li className="list-group-item SkillCardBackgroundColor">
-                    Latina: perusteet ( taito on erittäin ruostunut, mutta kävin latinan luokan
-                    yläkoulussa ).
-                  </li>
+                  <li className="list-group-item SkillCardBackgroundColor">Suomi: äidinkieli</li>
+                  <li className="list-group-item SkillCardBackgroundColor">Englanti: sujuva</li>
+                  <li className="list-group-item SkillCardBackgroundColor">Ruotsi: hyvä</li>
+                  <li className="list-group-item SkillCardBackgroundColor">Latina: perusteet</li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
               </div>
@@ -93,13 +88,13 @@ function Skills() {
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
                     K-supermarket Perniö, myyjä ja välillä hyllytys 21.08.2015-30.11.2015 ja
-                    26.05.2017-04.03.2018.
+                    26.05.2017-04.03.2018
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Hästön maatila, puutarhatyö 09.06.2014-27.06.2014.
+                    Hästön maatila, puutarhatyö 09.06.2014-27.06.2014
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Bulevardin klinikka, toimistoapulainen 18.06.2012-29.06.2012.
+                    Bulevardin klinikka, toimistoapulainen 18.06.2012-29.06.2012
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -113,10 +108,10 @@ function Skills() {
                 <h4 className="card-title">Koulutus</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Hämeen ammattikorkeakoulu, tieto-ja viestintätekniikan insinööri 2018-2023.
+                    Hämeen ammattikorkeakoulu, tieto-ja viestintätekniikan insinööri 2018-2023
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Perniön lukio, ylioppilas 2012-2015.
+                    Perniön lukio, ylioppilas 2012-2015
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
@@ -130,14 +125,15 @@ function Skills() {
                 <h4 className="card-title">Varusmiespalvelus</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Kävin varusmiespalveluksen Uudenmaan prikaatissa Dragsvikissä Tammisaaressa.
+                    Uudenmaan prikaati, Dragsvik.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Olin armeijassa vuoden eli 347 päivää ja minut koulutettiin
-                    viesti-alikersantiksi.
+                    Päivämäärä: 3.1.2016-16.12.2016
                   </li>
+
+                  <li className="list-group-item SkillCardBackgroundColor">Viestialikersantti</li>
                   <li className="list-group-item SkillCardBackgroundColor">
-                    Varusmiespalvelus oli enimmäkseen ruotsiksi, joten opin samalla myös kieltä.
+                    Varusmiespalvelus oli enimmäkseen ruotsiksi.
                   </li>
                   <li className="list-group-item SkillCardBackgroundColor"></li>
                 </ul>
