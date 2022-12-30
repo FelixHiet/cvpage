@@ -51,6 +51,7 @@ function Skills() {
                   <li className="list-group-item SkillCardBackgroundColor">
                     CSS lisäksi Bootstrap ja hieman material ui:ta.
                   </li>
+                  <li className="list-group-item SkillCardBackgroundColor">Wordpress</li>
                   <li className="list-group-item SkillCardBackgroundColor">
                     Linuxin ja MySQL:n perusteet.
                   </li>
