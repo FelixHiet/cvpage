@@ -87,6 +87,9 @@ function Skills() {
                 <h4 className="card-title">Työkokemus</h4>
                 <ul className="list-group list-group-flush">
                   <li className="list-group-item SkillCardBackgroundColor">
+                    Kansanedustajaehdokkaan nettisivujen luominen 12.12.2022 -
+                  </li>
+                  <li className="list-group-item SkillCardBackgroundColor">
                     K-supermarket Perniö, myyjä ja välillä hyllytys 21.08.2015-30.11.2015 ja
                     26.05.2017-04.03.2018
                   </li>
